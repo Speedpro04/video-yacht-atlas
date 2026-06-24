@@ -1,0 +1,6 @@
+# Arquivos grandes / brutos (excedem limite do GitHub ou são fonte pesada)
+videos/
+descarte/
+yachts-atlas-v14.mp4
+*-srt-cru.srt
+_*.mp3
