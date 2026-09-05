@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Atlas,Arial,44,&H00FFFFFF,&H00FFFFFF,&H1F1F0C01,&H00000000,0,0,0,0,100,100,0,0,3,9,0,2,260,260,80,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.00,0:00:04.34,Atlas,,0,0,0,,Olá, tudo bem?
+Dialogue: 0,0:00:04.68,0:00:06.96,Atlas,,0,0,0,,Eu sou o Marcos, da Yachts Atlas!
+Dialogue: 0,0:00:07.52,0:00:10.32,Atlas,,0,0,0,,Sua Marina cuida de Ativos que valem milhões.
+Dialogue: 0,0:00:10.84,0:00:12.80,Atlas,,0,0,0,,Cada um com a sua história, certo?
+Dialogue: 0,0:00:13.42,0:00:16.79,Atlas,,0,0,0,,E eu queria começar com uma pergunta simples:
+Dialogue: 0,0:00:16.79,0:00:20.30,Atlas,,0,0,0,,hoje, onde é que essa história fica registrada?
+Dialogue: 0,0:00:20.78,0:00:26.28,Atlas,,0,0,0,,Se um cliente te pedir agora o histórico completo de manutenção de três anos atrás…
+Dialogue: 0,0:00:26.68,0:00:29.12,Atlas,,0,0,0,,você consegue entregar em cinco minutos?
+Dialogue: 0,0:00:29.58,0:00:32.02,Atlas,,0,0,0,,É pra isso que existe o Programa Atlas.
+Dialogue: 0,0:00:32.38,0:00:36.17,Atlas,,0,0,0,,A ideia é fácil: tudo o que acontece com cada barco
+Dialogue: 0,0:00:36.17,0:00:40.04,Atlas,,0,0,0,,da sua Marina passa a ficar registrado num lugar só.
+Dialogue: 0,0:00:40.38,0:00:43.78,Atlas,,0,0,0,,A manutenção que foi feita. O documento que chegou.
+Dialogue: 0,0:00:44.24,0:00:48.14,Atlas,,0,0,0,,A foto do serviço. A data… e quem fez!
+Dialogue: 0,0:00:48.62,0:00:52.72,Atlas,,0,0,0,,Aí, quando o dono do barco pergunta o que foi feito, está tudo ali.
+Dialogue: 0,0:00:52.72,0:00:55.66,Atlas,,0,0,0,,Na tela. No nome da sua Marina.
+Dialogue: 0,0:00:55.98,0:00:58.24,Atlas,,0,0,0,,E o dono do barco também ganha acesso.
+Dialogue: 0,0:01:00.18,0:01:05.00,Atlas,,0,0,0,,De casa, do escritório, de onde ele estiver, ele abre e vê o barco dele:
+Dialogue: 0,0:01:05.26,0:01:09.12,Atlas,,0,0,0,,as fotos, os documentos, tudo o que já foi feito.
+Dialogue: 0,0:01:09.30,0:01:12.54,Atlas,,0,0,0,,E vê o trabalho da sua Marina ali… todo dia!
+Dialogue: 0,0:01:12.54,0:01:17.94,Atlas,,0,0,0,,E de tempos em tempos, tudo isso vira um documento: o Dossiê Atlas.
+Dialogue: 0,0:01:18.24,0:01:20.70,Atlas,,0,0,0,,Ele conta a vida do barco do começo ao fim.
+Dialogue: 0,0:01:20.71,0:01:26.08,Atlas,,0,0,0,,A ficha dele, tudo o que já foi feito, os documentos, as fotos.
+Dialogue: 0,0:01:26.34,0:01:30.82,Atlas,,0,0,0,,É o documento que ajuda o dono na hora do seguro, na hora da vistoria…
+Dialogue: 0,0:01:30.82,0:01:33.64,Atlas,,0,0,0,,e, principalmente, na hora de vender.
+Dialogue: 0,0:01:33.88,0:01:36.80,Atlas,,0,0,0,,E tem uma parte que eu faço questão de te contar.
+Dialogue: 0,0:01:37.10,0:01:39.98,Atlas,,0,0,0,,Nada disso fica solto numa pasta de computador.
+Dialogue: 0,0:01:40.22,0:01:44.42,Atlas,,0,0,0,,Cada arquivo que entra recebe uma espécie de impressão digital,
+Dialogue: 0,0:01:44.80,0:01:48.49,Atlas,,0,0,0,,um código único chamado SHA-256.
+Dialogue: 0,0:01:50.42,0:01:53.28,Atlas,,0,0,0,,É o mesmo tipo de proteção que os bancos usam.
+Dialogue: 0,0:01:53.50,0:01:56.90,Atlas,,0,0,0,,E depois que o registro é fechado, ninguém mais muda.
+Dialogue: 0,0:01:57.16,0:01:59.04,Atlas,,0,0,0,,Ninguém apaga. Nem eu.
+Dialogue: 0,0:01:59.16,0:02:04.64,Atlas,,0,0,0,,E quem recebe esse documento… o comprador, o corretor, a seguradora…
+Dialogue: 0,0:02:04.98,0:02:08.62,Atlas,,0,0,0,,pode conferir na nossa página se ele é mesmo verdadeiro.
+Dialogue: 0,0:02:08.96,0:02:12.20,Atlas,,0,0,0,,Sem ver nada lá de dentro: só a confirmação.
+Dialogue: 0,0:02:12.58,0:02:16.76,Atlas,,0,0,0,,Se alguém tentar mexer em uma vírgula, o sistema mostra na hora.
+Dialogue: 0,0:02:17.02,0:02:21.62,Atlas,,0,0,0,,No fim das contas é isso: a sua Marina passa a ter, preto no branco,
+Dialogue: 0,0:02:21.62,0:02:24.14,Atlas,,0,0,0,,tudo o que ela já fez por cada barco.
+Dialogue: 0,0:02:24.46,0:02:28.22,Atlas,,0,0,0,,Isso traz tranquilidade pro dono… e aproxima ele de você.
+Dialogue: 0,0:02:28.52,0:02:29.82,Atlas,,0,0,0,,Uma última coisa!
+Dialogue: 0,0:02:30.10,0:02:35.39,Atlas,,0,0,0,,O Programa Atlas vai abrir para
+Dialogue: 0,0:02:35.39,0:02:40.85,Atlas,,0,0,0,,vinte Marinas no Brasil inteiro.
+Dialogue: 0,0:02:43.52,0:02:46.80,Atlas,,0,0,0,,Só vinte!
+Dialogue: 0,0:02:49.47,0:02:54.02,Atlas,,0,0,0,,Continue aqui embaixo com calma.
+Dialogue: 0,0:02:54.16,0:02:57.98,Atlas,,0,0,0,,As condições exclusivas estão todas nesta mesma página…
+Dialogue: 0,0:02:58.32,0:03:01.54,Atlas,,0,0,0,,e se fizer sentido pra você, é só me chamar!

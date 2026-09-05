@@ -4,3 +4,8 @@ descarte/
 yachts-atlas-v14.mp4
 *-srt-cru.srt
 _*.mp3
+
+# Saida do pipeline: se refaz rodando remontar.py, nao versionar
+versoes/*/video.mp4
+versoes/*/*.log
+versoes/*/ffmpeg2pass*
