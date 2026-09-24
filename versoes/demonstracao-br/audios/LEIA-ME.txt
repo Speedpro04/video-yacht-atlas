@@ -1,0 +1,13 @@
+Coloque aqui os mp3 gerados no ElevenLabs, um por bloco, com estes nomes
+exatos — e o nome que o montar_boas_vindas.py procura:
+
+    0-abertura.mp3
+    1-painel-tecnico.mp3
+    2-pre-data.mp3
+    3-portal-do-proprietario.mp3
+    4-dossie-atlas.mp3
+    5-fecho.mp3
+
+Cada um corresponde ao arquivo de mesmo nome em ../textos/. Bloco sem mp3 entra
+com a duracao natural dos trechos, sem fala — da para montar com dois ou tres
+prontos e completar depois.

@@ -1,0 +1,11 @@
+Esta é a sua tela. Cada barco da sua Marina fica aqui, um a um.
+
+Você começa cadastrando a embarcação: o que ela é… e de quem ela é.
+
+Dentro de cada barco ficam as partes que importam: motor, casco, elétrica, pintura, segurança. Cada uma com a sua ficha.
+
+Quando um serviço é feito, ele entra assim: o que foi feito, quem fez, a data, as horas do motor, o valor… e a foto do serviço.
+
+E aqui vai a parte mais importante: depois que o registro é fechado, ninguém muda. Ninguém apaga. Nem eu.
+
+Por isso vale a pena preencher com calma. O que entra hoje é o que vai valer daqui a cinco anos.
